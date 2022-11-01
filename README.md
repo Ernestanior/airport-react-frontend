@@ -23,16 +23,11 @@ Using Vue for front-end structure and Node.js for back-end, MongoDB for the data
 <img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/8.png" width="320px">
 <img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/9.png" width="320px">
 <img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/10.png" width="320px">
-<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/11.png" width="320px">
-
-### Chinese Version
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/1.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/2.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/3.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/4.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/5.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/6.jpg" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/CN/7.jpg" width="320px">
+<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/12.png" width="320px">
+<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/13.png" width="320px">
+<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/14.png" width="320px">
+<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/15.png" width="320px">
+<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/16.png" width="320px">
 
 ### Compiles and hot-reloads for frontend
 ```
