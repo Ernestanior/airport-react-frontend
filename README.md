@@ -14,7 +14,7 @@ Using Vue for front-end structure and Node.js for back-end, MongoDB for the data
 ## Project Image
 ### English Version
 <img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/1.png" width="320px">
-<img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/2.png" width="320px">
+<img src="https://github.com/Ernestanior/airport-react-frontend/blob/d91b5ad8f21556551c0ebfa6b8b22c4ccc5966b7/screenshot/2.png" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/3.png" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/4.png" width="320px">
 <img src="https://github.com/Ernestanior/AirportGrab/blob/master/frontend/screenshot/EN/5.png" width="320px">
